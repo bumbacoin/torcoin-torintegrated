@@ -1,4 +1,13 @@
 
+This is a fork with Tor integrated into the source
+
+if you require the source of client without integrated Tor see
+https://github.com/TorCoinProject/torcoin
+and for windows-qt
+https://github.com/TorCoinProject/torcoin/raw/master/release/torcoin-qt.exe
+
+
+---
 Torcoin development tree
 
 Torcoin is a PoW-based/PoS-based X11 cryptocurrency.
